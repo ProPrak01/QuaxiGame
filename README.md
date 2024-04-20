@@ -1,3 +1,6 @@
+# https://proprak01.itch.io/quaxi-edu-game
+
+
 ## This is a game made in unity for Educational purposes.
 Teachers can download the game and goto admin section to fill 45 questions in it.
 After then students can play the game whenever they want .
