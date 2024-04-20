@@ -8,15 +8,15 @@ There will be 15 levels (platformer type) in each level there will be 3 question
 ## Preview:
 
 Guide->
-![]images/guide
+![]images/guide.png
 
 game->
-![]images/game
+![]images/game.png
 
 question Input->
-![]images/questionInput
+![]images/questionInput.png
 
 Admin->
-![]images/admin
+![]images/admin.pmg
 
 
