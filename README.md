@@ -5,6 +5,8 @@ There will be 15 levels (platformer type) in each level there will be 3 question
 
 # Game file has been provided for both mac and windows
 
+# For getting the password of Admin one can contact me.
+
 ## Preview:
 
 Guide->
